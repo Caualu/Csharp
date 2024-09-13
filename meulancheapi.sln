@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meulancheapi", "meulancheapi\meulancheapi.csproj", "{399A3C93-5708-4939-8FBA-9339989FB241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399A3C93-5708-4939-8FBA-9339989FB241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399A3C93-5708-4939-8FBA-9339989FB241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399A3C93-5708-4939-8FBA-9339989FB241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399A3C93-5708-4939-8FBA-9339989FB241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563CBF38-2A90-4556-84C3-F41BB0B6B5A2}
+	EndGlobalSection
+EndGlobal
